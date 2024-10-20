@@ -13,7 +13,7 @@ This Android application demonstrates the implementation of a Bottom Navigation 
 ## Technologies Used
 
 - Android studio
-- Java
+- Java Development Kit (JDK)
 - XML for layout design
 
 ## XML Layout
